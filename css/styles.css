@@ -1,0 +1,336 @@
+html {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #EFEBE9;
+}
+
+body b {
+	color: #8E725D;
+}
+
+.contents {
+	color: white;
+	font-family: monospace;
+	letter-spacing: 5px;
+	text-shadow: 1px 1px 1px grey;
+	border: 2px solid lightgrey;
+	border-radius: 3px;
+	background-color: rgba(255, 255, 255, 0.7);
+	margin-right: auto;
+	margin-left: auto;
+	width: 15em;
+}
+
+.butom {
+	background-color: rgba(255, 255, 255, 0.7);
+}
+	
+.blessings {
+	color: white;
+	font-weight: bolder;
+	font-size: 50px;
+	text-shadow: 1px 1px 1px black;
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.gotos {
+	border: 3px solid lightgrey;
+	border-radius: 8px;
+	background-color: lightgrey;
+	font-size: 13px;
+	font-family: monospace;
+	padding: 12px;
+}
+
+.gotos a {
+	padding: 10px 10px;
+	margin: 4px;
+}
+
+.img01, .img02, .img021 {
+	width: 60%;
+}
+
+.img03 {
+	width: 88%
+}
+
+.img05 {
+	width: 98%;
+}
+
+.img06, .img07 {
+	width: 60%;
+}
+
+.img08, .img09, .img10 {
+	width: 60%;
+}
+
+.img11, .img12, .img13 {
+	width: 60%;
+}
+
+.img14, .img15, .img16 {
+	width: 60%;
+}
+
+.img17, .img18, .img19 {
+	width: 60%;
+}
+
+.img20, .img21, .img22 {
+	width: 60%;
+}
+
+.verse1, .verse2, .verse3 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.verse4, .verse5, .verse21 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.verse6, .verse7, .verse8 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.verse9, .verse10, .verse11 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.verse12, .verse13, .verse14 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.verse15, .verse16, .verse17 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+
+.verse18, .verse19, .verse20 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.verse21, .verse22, .verse23 {
+	display: none;
+	border: 1px solid #D2D2D2;
+	border-radius: 4px;
+	padding: 2px;
+	white-space: pre-wrap;
+	margin-top: 10px;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.jumbotron h1 {
+	color: white;
+	font-family: 'Georgia', serif;
+	font-weight: bolder;
+	text-shadow: 3px 3px 3px black;
+	font-size: 90px;
+}
+
+.ways {
+	color: white;
+	font-family: 'Times New Roman', serif;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 14px;
+	letter-spacing: 6px;
+	text-shadow: 1px 1px 1px black;
+}
+
+.parallax h3 {
+	color: #B19F87;
+	letter-spacing: 5px;
+}
+
+.parallax .panel {
+	opacity: 0.94;
+}
+
+.parallax .panel-body p {
+	font-size: 22px;
+	padding: 10px;
+}
+
+.parallax b {
+	color: #8E725D;
+}
+
+.parallax .panel-body a {
+	color: #D0C8BD;
+}
+
+.parallax2 h1 {
+	margin-bottom: 60px;
+}
+
+.parallax2 h1 span {
+	letter-spacing: 10px;
+}
+
+.parallax h2 .ways {
+	text-shadow: 2px 2px 3px black;
+}
+
+.examples {
+	font-family: serif;
+	font-size: 23px;
+	background-color: grey;
+	margin-top: 20px;
+	border: 4px solid grey;
+	border-radius: 6px;
+	text-shadow: 1px 1px 5px #8E725D;
+}
+
+#examples {
+	font-size: 30px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px black;
+	padding: 13px 13px;
+	margin: 20px;
+	text-decoration: underline;
+}
+
+.ex1, .ex2, .ex3 {
+	border: 1px solid white;
+	border-radius: 5px;
+	margin: 15px 10px 15px 10px;
+}
+
+.ex4, .ex5, .ex6 {
+	border: 1px solid white;
+	border-radius: 5px;
+	margin: 15px 10px 15px 10px;
+}
+
+.ex7 {
+	border: 1px solid white;
+	border-radius: 5px;
+	margin: 15px 10px 15px 10px;
+}
+
+.ex1 h3, .ex2 h3, .ex3 h3 {
+	text-decoration: underline;
+	color: #8E725D;
+	letter-spacing: 3px;
+}
+
+.ex4 h3, .ex5 h3, .ex6 h3 {
+	text-decoration: underline;
+	color: #8E725D;
+	letter-spacing: 3px;
+}
+
+.ex7 h3 {
+	text-decoration: underline;
+	color: #8E725D;
+	letter-spacing: 3px;
+}
+	
+.examples p {
+	font-size: 25px;
+	padding: 10px;
+	font-family: 'Times New Roman', serif;
+}
+
+.examples p a:link {
+	color:  #8E725D;
+	font-size: 15px;
+}
+
+.examples p a:visited {
+	text-decoration: underline;
+}
+
+.examples p a:hover {
+	color: #8E725D;
+	letter-spacing: 3px;
+}
+
+.examples p a:active {
+	display: none;
+}
+
+.credits .row .imgcredits {
+	width: 50%;
+}
+
+.col-sm-4 a button {
+	white-space: pre-wrap;
+}
+	
+.blesswait {
+	color: grey;
+	border: 1px solid black;
+	border-radius: 7px;
+	background-color: rgba(255, 255, 255, 0.6);
+	text-shadow: 1px 1px 1px black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#come {
+	color: #583A1D;
+	font-weight: bolder;
+	font-family: 'Georgia', serif;
+	padding: 30px;
+}
+
+.blesswait a {
+	color: white;
+	margin-bottom: 20px;
+}
+
+.buttop {
+	margin: 15px;
+	color: #CCAC6F;
+	font-family: monospace;
+	text-shadow: 1px 1px 1px white;
+}
+	
+	
